@@ -9,4 +9,4 @@ Built for my own use, a sleep data tracker meant to discover what contributes to
 Because I wanted to learn Rust.
 
 ## Licensing
-I am at this time issuing no general license. If you want to use this code in ways not already permitted by the laws in your jurisdiction, contact me personally and maybe we can work something out.
+I am at this time issuing no general license. If you want to use this code in ways not already permitted by the laws in your locale, contact me personally and maybe we can work something out.
